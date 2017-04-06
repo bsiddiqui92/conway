@@ -20,6 +20,6 @@ At each step in time, the following transitions occur:
 
 3. Run the program by typing php conway.php <path to your input file> 
 
-4. Output will be displayed on termian screen
+4. Output will be displayed on terminal screen
 
 
