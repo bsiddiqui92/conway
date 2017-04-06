@@ -12,6 +12,10 @@ At each step in time, the following transitions occur:
 3. Any live cell with more than three live neighbors dies, as if by overpopulation.
 4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 
+# requirements
+
+must have php >= version 5.6
+
 # how to run
 
 1. clone this repository or download the files. 
