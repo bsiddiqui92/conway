@@ -14,8 +14,12 @@ At each step in time, the following transitions occur:
 
 # how to run
 
-clone this repository or download the files. 
+1. clone this repository or download the files. 
 
-from your terminal change your directory to the main project directory
+2. from your terminal change your directory to the main project directory
+
+3. Run the program by typing php conway.php <path to your input file> 
+
+4. Output will be displayed on termian screen
 
 
